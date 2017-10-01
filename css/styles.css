@@ -1,18 +1,23 @@
 .row {
 	margin-bottom: 10px;
 }
+
 .col-xs-12 {
 	margin-bottom: 10px;
 }
+
 h1, h2 {
 	font-family: Verdana, Arial, sans-serif;
 }
+
 header {
 	text-align: center;
 }
+
 p {
 	font-family: Helvetica, Arial, sans-serif;
 }
+
 .img-responsive {
 	margin: 0 auto;
 	height: auto;
